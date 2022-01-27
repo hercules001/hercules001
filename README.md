@@ -1,18 +1,19 @@
-# **Hello There!👋**
+# **Hello there!👋**
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/91370042/151399521-78ec382f-aef3-4086-850a-a5f4452528a4.gif)
 
 
 > I am a versatilist and easily adapt to different hats depending on what the project requires. 
-> I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️.
+> I love exploring new tech stack and leveraging them to build cool stuffs 🛠️.
 
 ## About Me:
 
 🔭   I’m currently building a Web3 based application with Solidity + Smart Contracts on Ethereum.
 
-🤝   I’m looking to collaborate on Solidity.
+🤝   I’m looking to collaborate on Web3.
 
-🌱   I’m currently understanding Solana Ecosystem  ;
+🌱   I’m currently understanding Solana Ecosystem
 
-💬   Ask me anything about Blockchain, I am happy to help;
+💬   Ask me anything about Blockchain, I am happy to help.
 
 📫   Feel free to ping me on Twitter.
 
