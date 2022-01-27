@@ -41,6 +41,9 @@
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priteshx&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+## Blog
+[![Pritesh Panda Medium](https://github-readme-medium.vercel.app/?username=priteshx419)](https://medium.com/@priteshx419)
+
 ## A Random Joke?
 ![Jokes Card](https://readme-jokes.vercel.app/api?)
 
