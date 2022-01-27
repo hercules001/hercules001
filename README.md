@@ -18,9 +18,6 @@
 
 📚   “If you don’t believe it or don’t get it, I don’t have the time to try to convince you, sorry.” – Satoshi Nakamoto
 
-## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priteshx&theme=radical&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
 ## Languages and Tools:
 
 <img align="left" alt="Web3" width="26px" src="https://user-images.githubusercontent.com/91370042/151361361-32b5ec5f-af61-4c32-9e48-006f29b3e144.png" />
@@ -40,9 +37,11 @@
 <br>
 <br/>
 
+## Stats
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priteshx&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ## A Random Joke?
-<!-- HTML -->
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+![Jokes Card](https://readme-jokes.vercel.app/api?)
 
 ## Vibing to : 🎧
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=o4x1yuf69yr2544sdeuytd202&cover_image=false&theme=default&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=o4x1yuf69yr2544sdeuytd202&redirect=true)
