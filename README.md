@@ -1,6 +1,5 @@
-# **Hello there!👋**
-![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/91370042/151399521-78ec382f-aef3-4086-850a-a5f4452528a4.gif)
-
+# **Hey there, I am Pritesh <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23710848&duration=3000&lines=Blockchain+Evangelist;Web3+Developer;A+caffeine+dependant+life-form)](https://git.io/typing-svg)
 
 > I am a versatilist and easily adapt to different hats depending on what the project requires. 
 > I love exploring new tech stack and leveraging them to build cool stuffs 🛠️.
@@ -38,6 +37,7 @@
 <br>
 <br/>
 
+
 ## Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=priteshx&theme=onedark_duo&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
@@ -54,3 +54,5 @@
 ![dino_rounded](https://user-images.githubusercontent.com/91370042/151349000-74013e69-c49b-4396-8afa-849ad00c4ad1.gif)
 
 # Thank you for visiting. I am not much active here due to studies. Will kick in the business soon with more wholesome stuffs. *kbye.*
+![Visitor Count](https://profile-counter.glitch.me/pratham-bhatnagar/count.svg)
+
