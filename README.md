@@ -53,4 +53,4 @@
 ## Some Random Nostalgic shit goes here :
 ![dino_rounded](https://user-images.githubusercontent.com/91370042/151349000-74013e69-c49b-4396-8afa-849ad00c4ad1.gif)
 
-# Thank you for visiting. I am not much active here due to studies. Will kick in the business soon with more wholesome stuffs. *kbye.*
+# Thank you for visiting. I am not much active here due to studies. Will kick in the action soon with more wholesome stuffs. *kbye.*
