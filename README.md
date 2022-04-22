@@ -6,11 +6,11 @@
 
 ## About Me:
 
-🔭   I’m currently building a Web3 based application with Solidity + Smart Contracts on Ethereum.
+🔭   I’m currently working on a dApp based on Ethereum.
 
-🤝   I’m looking to collaborate on Web3.
+🤝   I’m looking to collaborate on Web3 projects.
 
-🌱   I’m currently understanding Solana Ecosystem
+🌱   I’m currently learning Swift. 
 
 💬   Ask me anything about Blockchain, I am happy to help.
 
