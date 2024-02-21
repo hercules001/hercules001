@@ -26,12 +26,6 @@
 <br/>
 
 
-## Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hercules001&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-## Blog
-[![Pritesh Panda Medium](https://github-readme-medium.vercel.app/?username=priteshx419)](https://medium.com/@priteshx419)
-
 ## A Random Joke?
 ![Jokes Card](https://readme-jokes.vercel.app/api?)
 
@@ -40,5 +34,3 @@
 
 ## Some Random Nostalgic shit goes here :
 ![dino_rounded](https://user-images.githubusercontent.com/91370042/151349000-74013e69-c49b-4396-8afa-849ad00c4ad1.gif)
-
-# Thank you for visiting. I am not much active here due to studies. Will kick in the action soon with more wholesome stuffs. *kbye.*
